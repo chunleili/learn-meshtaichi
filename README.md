@@ -15,4 +15,6 @@ meshtaichi tutorial
 
 ## tutorial列表
 
-tut01: 如何导入表面网格和四面体网格？ 导入个三角面兔子和四面体犰狳。
+tut01: 如何导入表面网格和四面体网格？ 导入个三角面兔子和四面体犰狳。[视频讲解](https://www.bilibili.com/video/BV1T54y1P7Ur/?share_source=copy_web&vd_source=ad002c814962fc699cf9d167be8f2bb4)
+
+tut02: 如何导出mesh为ply序列？导出的序列可以读入houdini之类的软件
